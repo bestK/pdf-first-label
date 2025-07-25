@@ -5,7 +5,7 @@ description = "一个用于提取PDF首页的Streamlit应用"
 authors = ["Your Name <your.email@example.com>"]
 
 [tool.poetry.dependencies]
-python = ">=3.9,<3.9.7 || >3.9.7,<4.0"
+python = "3.11.6"
 streamlit = "^1.32.0"
 PyPDF2 = "^3.0.1"
 
